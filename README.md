@@ -13,7 +13,7 @@
 
 <br />
 
-<a href="SEU_LINK_DO_PROFILE">
+<a href="vscode://vscode.profiles-actions/import/profile?url=https://githubusercontent.com">
     <img src="https://img.shields.io/badge/IMPORTAR_PERFIL-FF6B00?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="50"/>
 </a>
 
