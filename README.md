@@ -13,7 +13,7 @@
 
 <br />
 
-<a href="https://gist.githubusercontent.com/MatheusDev09/e1f3f0daa2451dfe16281bf9a18883ae/raw/dac18d7d2195cf9d98bd1c31237e37bbda49262d/matheusdev09.codeprofile">
+<a href="https://vscode.dev/editor/profile/github/e1f3f0daa2451dfe16281bf9a18883ae?vscode-lang=pt-br">
     <img src="https://img.shields.io/badge/IMPORTAR_PERFIL-FF6B00?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="50"/>
 </a>
 
