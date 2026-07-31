@@ -1,0 +1,34 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": "C:\\windows\\System32\\cmd.exe",
+            "args": []
+        },
+        "Git Bash": {
+            "source": "Git Bash",
+            "icon": "terminal-git-bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "html": false,
+        "javascript": false,
+        "css": false
+    },
+    "backgroundCover.opacity": 0.05,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "terminal.integrated.initialHint": false
+}
